@@ -15,13 +15,13 @@ public class MenuConverter {
                 |--------------------Menu de Opções------------------|
                 |----------------------------------------------------|
                
-               |  1) Dólar (USD) para Peso Argentino(ARS)   |
-               |  2) Peso Argentino (ARS) para Dólar        |
-               |  3) Dólar (USD) para Real (BRL)            |
-               |  4) Real (BRL) para Dólar (USD)            |
-               |  5) Dólar (USD) para Peso Colombiano (COP) |
-               |  6) Peso Colombiano (COP) =>>> Dólar (USD) |
-               |  7) Sair                                   |
+               |  1) Dólar para Peso Argentino  |
+               |  2) Peso Argentino para Dólar  |
+               |  3) Dólar para Real            |
+               |  4) Real para Dólar            |
+               |  5) Dólar para Peso Colombiano |
+               |  6) Peso Colombiano para Dólar |
+               |  7) Sair                       |
                
                 Escolha uma das opções acima.
                
